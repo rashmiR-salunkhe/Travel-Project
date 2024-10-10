@@ -15,7 +15,7 @@ The HomePage of the Website is with <b>main.html</b> file.
 <h1><b>Other Screenshots of the Pages are:</b></h1>
 
 <h1><b>Adventure</b></h1>
-![Adventure Screenshot](https://github.com/rashmiR-salunkhe/Travel-Project/blob/main/docs/screenshot/adventure.jpg?raw=true)
+![alt text](https://github.com/rashmiR-salunkhe/Travel-Project/blob/main/docs/screenshot/adventure.jpg?raw=true)
 <h1><b>Package</b></h1>
 ![Package Screenshot](https://github.com/rashmiR-salunkhe/Travel-Project/blob/main/docs/screenshot/package.png?raw=true)
 <h1><b>Contact</b></h1>
