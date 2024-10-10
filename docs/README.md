@@ -1,16 +1,20 @@
 # Travel Project...
 
-The HomePage of the Website is with <b>main.html</b> file.
+The homepage of the website is **main.html**.
 
 ![Homepage Screenshot](https://github.com/rashmiR-salunkhe/Travel-Project/blob/main/docs/screenshot/home.png?raw=true)
 
-<h1><b>Other Screenshots of the Pages are:</b></h1>
+### Other Pages
 
-<h1><b>Adventure</b></h1>
-![Adventure Screenshot](https://github.com/rashmiR-salunkhe/Travel-Project/blob/main/docs/screenshot/adventure.jpg?raw=true)
-<h1><b>Package</b></h1>
-![Package Screenshot](https://github.com/rashmiR-salunkhe/Travel-Project/blob/main/docs/screenshot/package.png?raw=true)
-<h1><b>Contact</b></h1>
-![Contact Screenshot](https://github.com/rashmiR-salunkhe/Travel-Project/blob/main/docs/screenshot/contact.png?raw=true)
-<h1><b>Contact-database</b></h1>
+#### Adventure
+![Adventure Page Screenshot](https://github.com/rashmiR-salunkhe/Travel-Project/blob/main/docs/screenshot/adventure.jpg?raw=true)
+
+#### Package
+![Package Page Screenshot](https://raw.githubusercontent.com/rashmiR-salunkhe/Travel-Project/refs/heads/main/docs/screenshot/package.png?raw=true)
+
+#### Contact
+![Contact Page Screenshot](https://github.com/rashmiR-salunkhe/Travel-Project/blob/main/docs/screenshot/contact.png?raw=true)
+
+#### Contact Database
 ![Contact Database Screenshot](https://github.com/rashmiR-salunkhe/Travel-Project/blob/main/docs/screenshot/contact-database.png?raw=true)
+
