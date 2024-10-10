@@ -8,6 +8,7 @@ The HomePage of the Website is with<b> main.html</b> file.
 
 <h1><b>Other Screenshots of the Pages are.</b></h1>
 
+<h1><b>Adventure</b></h1>
 ![Adventure Screenshot](https://raw.githubusercontent.com/rashmiR-salunkhe/Travel-Project/refs/heads/main/docs/screenshot/adventure.png)
 <h1><b>Package</b></h1>
 ![Package Screenshot](https://raw.githubusercontent.com/rashmiR-salunkhe/Travel-Project/refs/heads/main/docs/screenshot/package.png)
