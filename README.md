@@ -4,7 +4,6 @@ Welcome to the **Travel Project**! This project is designed to help users explor
 
 **DEMO**: (https://rashmir-salunkhe.github.io/Travel-Project/) This Travel Project uses HTML, CSS, JavaScript for the frontend and Java, Spring Boot for the backend.
 
-<hr>
 
 ## Technologies Used...
 
@@ -20,7 +19,6 @@ Welcome to the **Travel Project**! This project is designed to help users explor
 ### Database :
 - MySQL
 
-<hr>
 
 ## Frontend...
 
@@ -28,14 +26,10 @@ The homepage of the website is **main.html**.
 
 ![Homepage Screenshot](https://github.com/rashmiR-salunkhe/Travel-Project/blob/main/docs/screenshot/home.png?raw=true)
 
-<hr>
 ### Other Pages...
-<hr>
 
 #### Adventure 
-<p align="center">
-    ![Adventure Page Screenshot](https://github.com/rashmiR-salunkhe/Travel-Project/blob/main/docs/screenshot/adventure.jpg?raw=true)
-</p>
+![Adventure Page Screenshot](https://github.com/rashmiR-salunkhe/Travel-Project/blob/main/docs/screenshot/adventure.jpg?raw=true)
 
 #### Package
 ![Package Page Screenshot](https://raw.githubusercontent.com/rashmiR-salunkhe/Travel-Project/refs/heads/main/docs/screenshot/package.png?raw=true)
@@ -46,8 +40,6 @@ The homepage of the website is **main.html**.
 #### Contact Database
 ![Contact Database Screenshot](https://github.com/rashmiR-salunkhe/Travel-Project/blob/main/docs/screenshot/contact-database.png?raw=true)
 
-
-<hr>
 # Backend...
 
 ### Setup and Run :
